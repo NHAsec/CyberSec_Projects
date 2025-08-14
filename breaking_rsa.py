@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#credit to jaxafed
 # gmpy2 is a C-coded Python extension module that supports
 # multiple-precision arithmetic.
 # pip install gmpy2
