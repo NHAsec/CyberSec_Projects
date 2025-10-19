@@ -1,3 +1,4 @@
+#Custom exploit by NHASec for Nibble v4.0.3 RCE
 import requests
 import sys
 
